@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	display: block;
+}
+button{
+	height: 20px;
+	width: 50px;
+	font-size: 10px;
+}
+button:hover{
+	box-shadow: 5px 5px 2px grey;
+}
+button.reg{
+	height: 20px;
+	width: 50px;
+	font-size: 10px;
+}
+button.big{
+	height: 60px;
+	width: 150px;
+	font-size: 30px;
+	background: -webkit-linear-gradient(white, grey, white);
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	border: 1px solid red;
+}
+button.med{
+	height: 40px;
+	width: 100px;
+	font-size: 10px;
+	font-size: 20px;
+}
+button.small{
+	height: 20px;
+	width: 50px;
+	font-size: 10px;
+}
+button.tiny{
+	height: 20px;
+	width: 50px;
+	font-size: 10px;
+}
